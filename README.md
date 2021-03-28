@@ -38,14 +38,10 @@ Represents data of a single item.
 
 | Name | Type | Description | Required |
 | ---- | ---- | ----------- | -------- |
-| id | long | Item's unique number.  
-_Example:_ `123456` | Yes |
-| name | string | Name.  
-_Example:_ `"Laptop"` | Yes |
-| description | string | Description.  
-_Example:_ `"A brand new laptop."` | No |
-| price | double | Price.  
-_Example:_ `100` | No |
+| id | long | Item's unique number.<br>_Example:_ `123456` | Yes |
+| name | string | Name.<br>_Example:_ `"Laptop"` | Yes |
+| description | string | Description.<br>_Example:_ `"A brand new laptop."` | No |
+| price | double | Price.<br>_Example:_ `100` | No |
 
 ## Operations
 
@@ -148,12 +144,9 @@ Item input data.
 
 | Name | Type | Description | Required |
 | ---- | ---- | ----------- | -------- |
-| name | string | Name.  
-_Example:_ `"Laptop"` | Yes |
-| description | string | Description.  
-_Example:_ `"A brand new laptop."` | No |
-| price | double | Price.  
-_Example:_ `100` | No |
+| name | string | Name.<br>_Example:_ `"Laptop"` | Yes |
+| description | string | Description.<br>_Example:_ `"A brand new laptop."` | No |
+| price | double | Price.<br>_Example:_ `100` | No |
 
 #### ProblemDetails
 
