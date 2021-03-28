@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "CRMit.Items.IntegrationTests": {
+      "commandName": "Project"
+    }
+  }
+}
